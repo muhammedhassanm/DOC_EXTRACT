@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>12916-57705-1-PB (1)_4.jpg</filename>
+	<path>C:\Users\100119\Desktop\DATA_EXTRACTION_DOCUMENT\data\22-11-2019\train\12916-57705-1-PB (1)_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>20</ymin>
+			<xmax>146</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>208</ymin>
+			<xmax>147</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>19</ymin>
+			<xmax>279</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

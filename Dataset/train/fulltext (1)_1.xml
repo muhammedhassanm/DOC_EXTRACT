@@ -1,0 +1,50 @@
+<annotation>
+	<folder>doc_images_hassan</folder>
+	<filename>fulltext (1)_1.jpg</filename>
+	<path>C:\Users\100119\Desktop\DATA_EXTRACTION_DOCUMENT\data\doc_images_hassan\fulltext (1)_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>25</ymin>
+			<xmax>254</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>105</ymin>
+			<xmax>161</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>118</ymin>
+			<xmax>201</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

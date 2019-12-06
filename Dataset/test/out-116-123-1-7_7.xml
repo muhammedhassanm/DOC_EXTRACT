@@ -1,0 +1,26 @@
+<annotation>
+	<folder>doc_images_hassan</folder>
+	<filename>out-116-123-1-7_7.jpg</filename>
+	<path>C:\Users\100119\Desktop\DATA_EXTRACTION_DOCUMENT\data\doc_images_hassan\out-116-123-1-7_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>5</ymin>
+			<xmax>273</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

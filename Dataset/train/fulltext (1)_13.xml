@@ -1,0 +1,26 @@
+<annotation>
+	<folder>doc_images_hassan</folder>
+	<filename>fulltext (1)_13.jpg</filename>
+	<path>C:\Users\100119\Desktop\DATA_EXTRACTION_DOCUMENT\data\doc_images_hassan\fulltext (1)_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>7</ymin>
+			<xmax>274</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

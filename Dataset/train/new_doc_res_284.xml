@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pdf_image_22-11-2019</folder>
+	<filename>new_doc_res_284.jpg</filename>
+	<path>C:\Users\100119\Desktop\DATA_EXTRACTION_DOCUMENT\data\22-11-2019\pdf_image_22-11-2019\new_doc_res_284.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>33</ymin>
+			<xmax>279</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pdf_to_image_new</folder>
+	<filename>1336192517757_80180455_5.jpg</filename>
+	<path>E:\TableTextImageDetection\pdf_to_image_new\1336192517757_80180455_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>13</ymin>
+			<xmax>289</xmax>
+			<ymax>24</ymax>
+		</bndbox>
+	</object>
+</annotation>

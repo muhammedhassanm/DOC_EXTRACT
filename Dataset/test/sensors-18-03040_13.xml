@@ -1,0 +1,26 @@
+<annotation>
+	<folder>doc_images_hassan</folder>
+	<filename>sensors-18-03040_13.jpg</filename>
+	<path>C:\Users\100119\Desktop\DATA_EXTRACTION_DOCUMENT\data\doc_images_hassan\sensors-18-03040_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>19</ymin>
+			<xmax>263</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

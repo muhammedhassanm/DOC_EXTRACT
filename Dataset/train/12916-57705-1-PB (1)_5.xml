@@ -1,0 +1,50 @@
+<annotation>
+	<folder>doc_images</folder>
+	<filename>12916-57705-1-PB (1)_5.jpg</filename>
+	<path>E:\TableTextImageDetection\doc_images\12916-57705-1-PB (1)_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>26</ymin>
+			<xmax>141</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>70</ymin>
+			<xmax>148</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>19</ymin>
+			<xmax>278</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

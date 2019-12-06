@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pdf_to_image_new</folder>
+	<filename>ALLIANZ-2602_2.jpg</filename>
+	<path>E:\TableTextImageDetection\pdf_to_image_new\ALLIANZ-2602_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>27</ymin>
+			<xmax>285</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>
