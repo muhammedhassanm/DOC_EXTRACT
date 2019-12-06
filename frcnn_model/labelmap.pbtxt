@@ -1,0 +1,23 @@
+item {
+  id: 1
+  name: 'table'
+}
+
+item {
+  id: 2
+  name: 'diagram'
+}
+item {
+  id: 3
+  name: 'text'
+}
+
+item {
+  id: 4
+  name: 'image'
+}
+
+
+
+
+
